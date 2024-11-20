@@ -1,0 +1,57 @@
+/* extra small screens :smart watchs */
+@media screen and (width < 640px){
+    .xs-10{
+        width: 10%;
+    }
+    
+    .xs-16{
+        width: 16.6666666%;
+    }
+    .xs-20{
+        width: 20%;
+    }
+    .xs-25{
+        width: 25%;
+    }
+    .xs-30{
+        width: 30%;
+    }
+    .xs-33{
+        width: 33.3333333%;
+    }
+    .xs-45{
+        width: 45%;
+    }
+    .xs-50{
+        width: 50%;
+    }
+    .xs-60{
+        width: 60%;
+    }
+    
+}
+
+/* small screens :smart phones */
+@media screen and (640px <= width <768px){
+    
+}
+
+/* medium screens :tablets */
+@media screen and (768px <= width <1024px){
+    
+}
+
+/* large screens :small laptops */
+@media screen and (1024px <= width <1280px){
+    
+}
+
+/* extra large screens :laptops */
+@media screen and (1280px <= width <1536px){
+    
+}
+
+/* extra extra large screens :tv */
+@media screen and (width >= 1536px){
+    
+}
